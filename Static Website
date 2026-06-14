@@ -1,0 +1,9 @@
+What is the difference between hosting a static website and running a backend server?
+A static website only serves pre-made files like HTML, CSS, and JavaScript to users. It does not process data or run server-side code.
+
+A backend server runs code on the server, handles requests, processes data, interacts with databases, and generates dynamic responses.
+
+Example:
+
+Static website → Portfolio or landing page.
+Backend server → Login system, online store, or API.
